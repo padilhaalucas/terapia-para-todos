@@ -22,7 +22,7 @@ const Home: NextPage = () => {
             key={'formulario-principal'}
             height="100%"
             width="100%"
-            className='rounded-2xl'
+            className='rounded-2xl shadow-md shadow-neutral-500'
           />
         </div>
       </main>
